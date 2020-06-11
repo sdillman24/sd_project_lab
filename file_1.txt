@@ -1,3 +1,4 @@
+Adding a line
 This is my text file for Git Training
 So excited on what I will learn today
 Much Fun!!
